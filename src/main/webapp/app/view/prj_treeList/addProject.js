@@ -21,6 +21,7 @@ Ext.define('App.view.prj_treeList.addProject', {
         var me = this;
 
         Ext.applyIf(me, {
+            modal : true,
             items: [
                 {
                     xtype: 'form',

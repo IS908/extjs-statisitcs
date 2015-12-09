@@ -29,11 +29,15 @@ Ext.define('App.view.prj_treepanel', {
                 items: [
                     {
                         xtype: 'button',
-                        text: '添加',
+                        text : '添加',
+                        tooltip : '添加',
+                        iconCls : 'new',
                         id: 'prj_add'
                     }, {
                         xtype: 'button',
                         text: '删除',
+                        tooltip : '删除',
+                        iconCls : 'del',
                         id: 'prj_del'
                     }
                 ]

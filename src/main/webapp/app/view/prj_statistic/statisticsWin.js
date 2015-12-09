@@ -21,6 +21,7 @@ Ext.define('App.view.prj_statistic.statisticsWin', {
         var me = this;
 
         Ext.applyIf(me, {
+            modal : true,
             dockedItems: [
                 {
                     xtype: 'toolbar',
