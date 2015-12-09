@@ -8,7 +8,7 @@ Ext.define('App.view.prj_treeList.addProject', {
     alias: 'widget.prjAdd',
 
 
-    width: 280,
+    width: 260,
     height: 220,
     id: 'addPrj',
     autoScroll: true,
@@ -30,23 +30,33 @@ Ext.define('App.view.prj_treeList.addProject', {
                         {
                             xtype: 'textfield',
                             border: false,
-                            fieldLabel: '工程名称'
+                            fieldLabel: '工程名称',
+                            labelAlign: 'right',
+                            labelWidth: 70
                         }, {
                             xtype: 'textfield',
                             border: false,
-                            fieldLabel: '工程版本'
+                            fieldLabel: '工程版本',
+                            labelAlign: 'right',
+                            labelWidth: 70
                         }, {
                             xtype: 'textfield',
                             border: false,
-                            fieldLabel: '代码行数'
+                            fieldLabel: '代码行数',
+                            labelAlign: 'right',
+                            labelWidth: 70
                         }, {
                             xtype: 'textfield',
                             border: false,
-                            fieldLabel: '代码活跃度'
+                            fieldLabel: '代码活跃度',
+                            labelAlign: 'right',
+                            labelWidth: 70
                         }, {
                             xtype: 'textfield',
                             border: false,
-                            fieldLabel: '源码地址'
+                            fieldLabel: '源码地址',
+                            labelAlign: 'right',
+                            labelWidth: 70
                         }
                     ]}
             ],
