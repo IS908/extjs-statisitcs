@@ -1,0 +1,184 @@
+{ 
+  "text": ".",
+  "children": [{
+      "text":"C项目",
+      "expanded": true,
+      "children":[{
+          "text":"10w行以内",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.00",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.00",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.00",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.00",
+                  "leaf":true
+              }]
+          }]
+      },{
+          "text":"10-20w行",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.10",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.10",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.10",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.10",
+                  "leaf":true
+              }]
+          }]
+      }]
+  },{
+      "text":"CPP项目",
+      "expanded": true,
+      "children":[{
+          "text":"10w行以内",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.1",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.1",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.1",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.1",
+                  "leaf":true
+              }]
+          }]
+      },{
+          "text":"10-20w行",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.11",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.11",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.11",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.11",
+                  "leaf":true
+              }]
+          }]
+      }]
+  },{
+      "text":"JAVA项目",
+      "expanded": true,
+      "children":[{
+          "text":"10w行以内",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.0",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.0",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.0",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.0",
+                  "leaf":true
+              }]
+          }]
+      },{
+          "text":"10-20w行",
+          "expanded": true,
+          "children": [{
+              "text":"bzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"bzip2-v1.0",
+                  "id":"bzip2_v1.01",
+                  "leaf":true
+              }, {
+                  "text":"bzip2-v2.0",
+                  "id":"bzip2_v2.01",
+                  "leaf":true
+              }]
+          }, {
+              "text":"gzip2",
+              "expanded": true,
+              "children": [{
+                  "text":"gzip2-v1.0",
+                  "id":"gzip2_v1.01",
+                  "leaf":true
+              }, {
+                  "text":"gzip2-v2.0",
+                  "id":"gzip2_v2.01",
+                  "leaf":true
+              }]
+          }]
+      }]
+  }]
+}

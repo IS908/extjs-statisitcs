@@ -1,0 +1,15 @@
+{
+  "success": true,
+  "data":
+    {
+      "id": 1,
+      "name": "bzip2",
+      "version": "V1.0.2",
+      "codeCount": "12345",
+      "testDate": "2015-12-07 14:47:30",
+      "weaknessCount": 123,
+      "liveness": 1234,
+      "srcAddress": "http://www.baidu.com",
+      "description": "bzip2的相关介绍"
+    }
+}
