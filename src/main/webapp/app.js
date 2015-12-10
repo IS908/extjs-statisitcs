@@ -15,6 +15,7 @@ Ext.application({
         'App.view.prj_overview.history',
         'App.view.prj_statistic.statisticsWin',
         'App.view.prj_statistic.statisticsGrid',
+        'App.view.prj_statistic.addStatistics',
         'App.view.prj_weakness.weaknessGrid'
     ],
     models: [
@@ -40,6 +41,7 @@ Ext.application({
         'App.view.prj_overview.history',
         'App.view.prj_statistic.statisticsWin',
         'App.view.prj_statistic.statisticsGrid',
+        'App.view.prj_statistic.addStatistics',
         'App.view.prj_weakness.weaknessGrid'
     ],
     controllers: [
