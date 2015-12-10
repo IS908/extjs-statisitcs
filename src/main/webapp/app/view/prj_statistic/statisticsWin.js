@@ -28,19 +28,25 @@ Ext.define('App.view.prj_statistic.statisticsWin', {
                     dock: 'top',
                     items: [{
                         xtype: 'button',
+                        tooltip : '添加',
+                        iconCls : 'new',
                         text: '添加',
                         id: 'btn_add'
                     }, {
                         xtype: 'button',
+                        tooltip : '编辑',
+                        iconCls : 'edit',
                         text: '编辑',
                         id: 'btn_edit'
                     }, {
                         xtype: 'button',
+                        tooltip : '删除',
+                        iconCls : 'del',
                         text: '删除',
                         id: 'btn_del'
                     }, {
                         xtype: 'label',
-                        minWidth: 80,
+                        minWidth: 35,
                     }, {
                         xtype: 'textfield',
                         width: 150,

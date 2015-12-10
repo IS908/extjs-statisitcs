@@ -1,6 +1,9 @@
 .new {
     background-image:url(../img/new.ico)
 }
+.edit {
+    background: url("../img/edit.ico");
+}
 .del {
     background-image: url(../img/del.ico);
 }
